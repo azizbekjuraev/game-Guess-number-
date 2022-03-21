@@ -1,2 +1,2 @@
 # game-Guess-number-
-<a href="https://github.com/theabdlz7/game-Guess-number-/">Live Demo</a>
+<a href="https://theabdlz7.github.io/game-Guess-number-/">Live Demo</a>
