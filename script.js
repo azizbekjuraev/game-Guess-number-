@@ -74,4 +74,5 @@ document.querySelector(`.again`).addEventListener(`click`, function () {
   document.querySelector(`.score`).textContent = score;
   document.querySelector(`.guess`).value = '';
   document.querySelector(`.number`).textContent = `?`;
+  document.querySelector(`header h1`).textContent = `Guess My Number!`;
 });
